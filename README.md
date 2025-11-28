@@ -13,5 +13,11 @@ Page personnelle de Céleste.
 - **框架**: React, Vue, Django
 - **工具**: Git, Docker, VS Code
 
+## 📊 GitHub 数据
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CelesteCarbet&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteCarbet&layout=compact)
+
 ## 📈 GitHub 统计
 ![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=CelesteCarbet&show_icons=true)
