@@ -21,3 +21,7 @@ Page personnelle de Céleste.
 
 ## 📈 GitHub 统计
 ![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=CelesteCarbet&show_icons=true)
+
+## 🐍 我的贡献记录
+
+![Snake animation](https://raw.githubusercontent.com/CelesteCarbet/CelesteCarbet.github.io/output/github-snake.svg)
